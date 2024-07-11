@@ -1,6 +1,6 @@
 # guessing-game
 
-This project is a simple C++ program developed for the CSCE 1030 - Computer Science I course at the University of North Texas. It is a console-based game where the user guesses a number between two randomly generated numbers. The game involves displaying these numbers, guessing, and changing them. The goal is to guess correctly and accumulate points.
+This project is a console-based game where the user guesses a number between two randomly generated numbers. The game involves displaying these numbers, guessing, and changing them. The goal is to guess correctly and accumulate points.
   
 ## Authors
 
