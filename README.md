@@ -16,11 +16,11 @@ This project is a simple C++ program developed for the CSCE 1030 - Computer Scie
 
 3. The user is presented with a menu with the following options:
 
- 1. Display Left Number: Displays the left number and reduces the points gained for a correct guess to 1.
- 2. Display Right Number: Displays the right number and reduces the points gained for a correct guess to 1.
- 3. Guess a Number in Between: The user guesses a number between the two numbers. Points are awarded or deducted based on whether the guess is correct and if any number was displayed.
- 4. Change Numbers: Generates new random numbers and resets the displayed numbers. One point is deducted for this action.
- 5. Exit: Ends the game and displays the total points.
+ - Display Left Number: Displays the left number and reduces the points gained for a correct guess to 1.
+ -  Display Right Number: Displays the right number and reduces the points gained for a correct guess to 1.
+ - Guess a Number in Between: The user guesses a number between the two numbers. Points are awarded or deducted based on whether the guess is correct and if any number was displayed.
+ - Change Numbers: Generates new random numbers and resets the displayed numbers. One point is deducted for this action.
+ - Exit: Ends the game and displays the total points.
 4. The game loop continues until the user chooses to exit or runs out of points.
    
 ## Installation
