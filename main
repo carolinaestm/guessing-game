@@ -6,15 +6,6 @@
 using namespace std;
 
 int main() {
-  // introduction
-  cout << "+---------------------------------------------------------+" << endl;
-  cout << "|              Computer Science and Engineering           |" << endl;
-  cout << "|               CSCE 1030 - Computer Science I            |" << endl;
-  cout << "|   Carolina Estrada cme0145 carolinaestrada@my.unt.edu   |" << endl;
-  cout << "|         Cody Smith cjs0531 codysmith13@my.unt.edu       |" << endl;
-  cout << "|      Taras Glushko tmg0208 tarasglushko@my.unt.edu      |" << endl;
-  cout << "+---------------------------------------------------------+" << endl;
-
   // declarations
   int choice; // user input from menu
   int points = 100;
